@@ -1,0 +1,8 @@
+# https://git-scm.com/docs/gitignore
+
+# Anywhere
+**/*.iml
+**/.DS_Store
+**/.idea
+**/project.xcworkspace
+**/xcuserdata
